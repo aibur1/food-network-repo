@@ -90,3 +90,20 @@ footer p{
    color:white;
    text-align: center;
 }
+.top-dish {
+    width: 50%;
+    padding: 0px 0px 50px 18px;
+}
+
+.top-dish img {
+    width: 50%;
+
+}
+section h1 {
+    text-align: center;
+}
+.top-dish p {
+    padding: 51px;
+    background-image: linear-gradient(#7ad5deed,orange);
+    border-radius: 177px;
+}
